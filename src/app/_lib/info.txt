@@ -1,0 +1,6 @@
+for separating UI logic from routing logic
+for consistently organizing internal files across a project
+for sorting and grouping files in code editors 
+for avoiding potential naming conflicts with future nextjs files
+
+to include _ in url segments, prefix the folder name with %5F (URL-encoded form of an underscore)
